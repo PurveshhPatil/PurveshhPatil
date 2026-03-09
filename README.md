@@ -1,7 +1,7 @@
 ## Hi there 👋 
 
 <p align="center">
-  <img src="KIROKAZE.gif" width="800px" height="1000px">
+  <img src="KIROKAZE.gif" width="800px" height="200px">
 </p>
 
 <!--
