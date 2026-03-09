@@ -1,6 +1,8 @@
 ## Hi there 👋 
-![My GIF](KIROKAZE.gif)
-<img src="KIROKAZE.gif" width="600px" height="200px">
+
+<p align="center">
+  <img src="KIROKAZE.gif" width="600px" height="500px">
+</p>
 
 <!--
 **PurveshhPatil/PurveshhPatil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
