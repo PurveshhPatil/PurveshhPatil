@@ -1,4 +1,4 @@
-## Hi there 👋 
+## Dev or Die
 
 <p align="center">
   <img src="KIROKAZE.gif" width="500" height="280">
